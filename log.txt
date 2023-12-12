@@ -1,1 +1,2 @@
 12/11/2023 version 1 
+12/12/2023 cambios generales e inicializacion de Base de datos
