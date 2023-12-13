@@ -2,3 +2,4 @@
 12/12/2023 cambios generales e inicializacion de Base de datos
 12/12/2023 cambio de estructura y queries
 12/13/2023 modelo de clases y estructuras con IDE
+12/14/2023 Cambios del dia
